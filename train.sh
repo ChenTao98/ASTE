@@ -1,0 +1,1 @@
+python train_aspect_opinion_global.py --save_model_path "save_model_name" --use_pos_tag --do_train --epoch 20 --data_set "16res" --data_dir "/home/dell/chentao/mrc-aspcet-opinion/ASTE-Data-V1-AAAI2020-process"
